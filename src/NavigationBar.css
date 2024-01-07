@@ -1,0 +1,222 @@
+.navbar-container{
+  background-color: #0D1321 ;
+  width: 1000px;
+  height: 300px;
+  border: 1px solid  #0D1321;
+  border-radius: 10px;
+  margin-left: 325px;
+  
+
+  
+}
+
+.navbar-1{
+ /*  background-color: grey ; */
+  background-color: #0D1321;     
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 970px;
+  height: 70px;
+  border: 1px solid  #0D1321;
+  border-radius: 10px;
+  margin: 10px;
+
+
+}
+
+.btn-1{
+background-color: #2A52BF ;
+color: whitesmoke;
+width: 150px;
+height: 60px;
+border: 1px solid  #2A52BF ;
+border-radius: 30px;
+/* font-size: large; */
+font-weight: 500;
+font-size: 15px;
+font-family:  'Fira Code', monospace;
+
+
+}
+
+.search-icon{
+  margin-right: 800px;
+}
+
+.navbar-2{
+ /*  background-color: grey ; */
+  background-color: #0D1321;
+  display: flex;
+  flex-direction: row;
+ justify-content: center; 
+/*  justify-content: space-between; */
+  align-items: center;
+ /*  width: 970px; */
+ width: 100%; /* Use 100% width for flexibility */
+ max-width: 970px; /* Set a max-width to limit the container width */
+  height: 65px;
+  border: 1px solid  #0D1321;
+  border-radius: 10px;
+  margin: 10px;
+
+}
+
+ .btn-2{
+background-color: #0D1321;
+color: white;
+font-family:  'Fira Code', monospace;
+width: 60px;
+height: 35px;
+/* position: relative;
+right: 188px; */
+border: 1px solid white;
+border-radius: 20px;
+margin-right: -10px;
+  
+} 
+
+
+.content-items 
+{
+  list-style-type: none;
+  display: flex;
+  gap: 65px;
+/*   position: relative; 
+  right: 170px; */
+ margin-right: 180px;
+
+}
+
+li{
+  margin:0;
+  color: grey;
+ 
+}
+ .icon-1
+
+{
+margin-right: 30px;
+}
+
+.icon-3{
+
+  margin-left: 5px;
+  margin-right: 15px;
+}
+ 
+.navbar-3{
+
+ 
+ width: 100%; /* Use 100% width for flexibility */
+ max-width: 970px; /* Set a max-width to limit the container width */
+  
+  border: 1px dashed grey;
+  
+  margin-left: 12px;
+  margin-top:10px;
+
+}
+
+.navbar-4{
+ /*  background-color: grey ; */
+ background-color: #0D1321;
+ 
+ 
+ width: 100%; /* Use 100% width for flexibility */
+ max-width: 970px; /* Set a max-width to limit the container width */
+  height: 100px;
+  border: 1px solid  #0D1321;
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center; 
+  align-items: center;
+
+
+}
+
+.lastdiv-1{
+  background-color: #171E2E;
+  color: whitesmoke;
+  font-weight: bold;
+  width: 100%;
+  max-width: 200px;
+   height: 70px;
+   margin: 3px;
+   border: 1px solid #171E2E ;
+   border-radius: 50px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+ 
+}
+
+.span-1{
+  font-weight: lighter;
+
+} 
+
+.btn-4{
+  background-color: #0D1321 ;
+  border: none;
+  color: red;
+  font-weight: bold;
+  height: 50px;
+  width: 100%;
+  max-width: 100px;
+  font-family:  'Fira Code', monospace;
+  margin-right: 250px;
+  margin-left: 50px;
+}
+
+.span-2{
+  font-weight: lighter;
+  color: grey;
+  font-family:  'Fira Code', monospace;
+} 
+
+.lastdiv-2{
+ /*  background-color: grey; */
+ background-color: #0D1321;  
+/*  color: black; */
+   color: grey;
+  width: 100%; 
+  max-width: 200px;
+   height: 70px;
+   margin: 3px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+
+}
+.play-image{
+  margin-left: 80px;
+}
+.tutorial{
+  margin-left: 15px;
+}
+.lastdiv-3{
+  background-color: #0D1321;  
+ /* background-color: grey; */
+/*   color: black; */
+     color: grey;
+ 
+  width: 100%; 
+  max-width: 200px;
+   height: 70px;
+   margin: 3px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+
+}
+
+.book-image{
+  margin-left: 80px; 
+}
+.Guidance{
+  margin-left: 15px;
+}
