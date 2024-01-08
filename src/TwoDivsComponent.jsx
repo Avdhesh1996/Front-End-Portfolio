@@ -28,7 +28,7 @@ const TwoDivsComponent = () => {
 <div className='X2'>
 <span  className='x2'>Price Range(USDT)</span>
 <span  className='x3'>USDT</span>
-<img className='x4'  src="src/images/more.png" alt="" /> 
+<img className='x4'  src="/images/more.png" alt="" /> 
 
 </div>
 </div>
@@ -50,12 +50,12 @@ const TwoDivsComponent = () => {
 <div  className='A1'>
   <span className='a1'>Profit Target</span>
   <span  className='a2'>10%</span>
-  <img  className='a3'  src="src/images/right.png" alt="" /> 
+  <img  className='a3'  src="/images/right.png" alt="" /> 
   </div>
 <div className='B2'>
 <span  className='b1'>First Investment</span>
 <span  className='b2'>Now</span>
-<img  className='b3'  src="src/images/right.png" alt="" /> 
+<img  className='b3'  src="/images/right.png" alt="" /> 
 </div>
 <div className='HA1'>CREATE</div>
       </div>
