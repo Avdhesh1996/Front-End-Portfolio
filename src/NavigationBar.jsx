@@ -29,9 +29,9 @@ const NavigationBar = () => {
       
       </div> 
 
-      <div class="navbar-3"></div>
+      <div className="navbar-3"></div>
       
-      <div class="navbar-4">
+      <div className="navbar-4">
         <div  className='lastdiv-1'>
         <img className='icon-3' src="src/images/trading.png" alt="trading-icon" />
         <p>ETH/INRTD<br /><span className='span-1'>Ethereum</span></p> 
