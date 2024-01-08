@@ -5,7 +5,7 @@ const NavigationBar = () => {
   return (
     <div className="navbar-container">
      <div className='navbar-1'>
-     <img className='search-icon' src="src/images/search.png" alt="Search-Icon" />
+     <img className='search-icon' src="/images/search.png" alt="Search-Icon" />
      <button className='btn-1'>CONNECT</button>
       </div> 
      
