@@ -5,7 +5,7 @@ const NavigationBar = () => {
   return (
     <div className="navbar-container">
      <div className='navbar-1'>
-     <img className='search-icon' src="/images/search.png" alt="Search-Icon" />
+     <img className='search-icon' src="src/images/search.png" alt="Search-Icon" />
      <button className='btn-1'>CONNECT</button>
       </div> 
      
@@ -24,8 +24,8 @@ const NavigationBar = () => {
              </ul>
       
        
-       <img className='icon-1' src="/images/stock-market.png" alt="stock-market" />
-       <img className='icon-2' src="/images/forex.png" alt="forex-icon" />
+       <img className='icon-1' src="src/images/stock-market.png" alt="stock-market" />
+       <img className='icon-2' src="src/images/forex.png" alt="forex-icon" />
       
       </div> 
 
@@ -33,7 +33,7 @@ const NavigationBar = () => {
       
       <div class="navbar-4">
         <div  className='lastdiv-1'>
-        <img className='icon-3' src="/images/trading.png" alt="trading-icon" />
+        <img className='icon-3' src="src/images/trading.png" alt="trading-icon" />
         <p>ETH/INRTD<br /><span className='span-1'>Ethereum</span></p> 
       
         </div>
@@ -41,11 +41,11 @@ const NavigationBar = () => {
      
       <button className='btn-4'>$20,679.17<br /><span className='span-2'>$20,679.17</span></button>
       <div  className='lastdiv-2'>
-      <img className='play-image'  src="/images/play.png" alt="play-button" />
+      <img className='play-image'  src="src/images/play.png" alt="play-button" />
       <p className='tutorial'>Tutorial</p> 
       </div>
       <div  className='lastdiv-3'>
-      <img className='book-image' src="/images/book.png" alt="book" />
+      <img className='book-image' src="src/images/book.png" alt="book" />
       <p className='Guidance'>Guidance</p> 
 
      </div>
