@@ -62,9 +62,9 @@
 .stock-container{
   width:430px;
   height:450px;
-  background-color:  #171E2E;
- margin-left: -15px;
- margin-top: 10px;
+  background-color: #171E2E;
+  margin-left: -15px;
+  margin-top: 10px;
 
  padding: 5px;
  overflow-y: auto; 
@@ -138,13 +138,6 @@ color: whitesmoke;
  
 }
 
-/* .sub-stock-container-2{
-  height: 190px;
-  width: 400;
-  background-color: yellow;
-  display: flex;
-  } */
-  
   .stock-2-p1,.stock-2-p2,.stock-2-p3{
     color: grey;
     font-size: 12px;
@@ -172,62 +165,6 @@ color: whitesmoke;
   
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- /*  .stock-3{
-  width:200px;
-  height:185px;
-  background-color: red;
-  margin-left: 15px;
-  border-radius: 10px;
-  display: inline-block;
-  color: whitesmoke;
-  padding-left: 10px;
-  }
- */
-
-
-
-
-
-
-
-
-
-
-
-  
-/*   .stock-4{
-    width:200px;
-    height:185px;
-    background-color: chartreuse;
-    margin-left: 15px;
-    border-radius: 10px;
-    display: inline-block;
-    color: whitesmoke;
-  } */
-
    .sub-stock-container-3{
     height: 190px;
     width: 400;
@@ -240,6 +177,7 @@ color: whitesmoke;
     height:185px;
     background-color: #171E2E; 
     margin-left: 15px;
+    margin-top: 10px;
     border-radius: 10px;
     display: inline-block;
     padding-left: 10px;
@@ -273,26 +211,13 @@ color: whitesmoke;
      margin-left: 7px;
     }
     
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
     
     .stock-6{
       width:200px;
       height:185px;
       background-color: #171E2E;
       margin-left: 15px;
+      margin-top: 10px;
       border-radius: 10px;
       display: inline-block;
       padding-left: 10px;
@@ -327,102 +252,21 @@ border: 0.5px solid grey;
     
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     .sub-stock-container-4
-     {
-      height: 190px;
-      width: 400;
-      background-color:  #171E2E;
-      display: flex;
-      }
-      
-      .stock-7{
-      width:200px;
-      height:185px;
-      background-color: #171E2E;
-      margin-left: 15px;
-      border-radius: 10px;
-      padding-left: 10px;
-      color: whitesmoke;
-      border: 0.5px solid grey;
-      
-      }
-      
-      .stock-7-p1,.stock-7-p2,.stock-7-p3{
-        color: grey;
-        font-size: 12px;
-      }
-      
-      .stock-7-p3{
-        color: white;
-      }
-      .stock-7-p4{
-        margin-left: 50px;
-        margin-bottom: 40px;
-        color: red;
-      }
-      
-      
-      .stock-7-icon{
-        margin-left: 75px;
-        margin-top: 10px;
-      }
-      
-      .stock-7-icon-2{
-       margin-bottom: -7px;
-       margin-left: 7px;
-      }
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
-      .sub-stock-container-5{
-        height: 190px;
+    .sub-stock-container-5
+    {
+        height: 200px;
         width: 400;
-        background-color:  #171E2E;
+        background-color: #171E2E;
         display: flex;
-        }
+        
+      }
         
         .stock-9{
         width:200px;
         height:185px;
         background-color: #171E2E;
         margin-left: 15px;
+        margin-top: 20px;
         border-radius: 10px;
         display: inline-block;
         padding-left: 10px;
@@ -459,6 +303,7 @@ border: 0.5px solid grey;
           height:185px;
           background-color: #171E2E;
           margin-left: 15px;
+          margin-top: 20px;
           border-radius: 10px;
           display: inline-block;
           padding-left: 10px;

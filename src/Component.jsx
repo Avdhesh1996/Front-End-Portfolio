@@ -1221,7 +1221,7 @@ chart.timeScale().applyOptions({
               targetPrice = getRandomPrice();
             }
           }
-        }, 200);
+        }, 700);
 
 
 
